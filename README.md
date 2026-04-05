@@ -1,75 +1,74 @@
 # 🚀 My Projects Portfolio
 
-Welcome to my project portfolio! Here are some of my featured live projects built using modern web technologies like Next.js, React, and more.
+![GitHub Repo stars](https://img.shields.io/github/stars/FahimRafi-Speedy?style=social)
+![GitHub followers](https://img.shields.io/github/followers/FahimRafi-Speedy?style=social)
+
+Welcome to my project portfolio!  
+Here are my featured **live projects** built with modern technologies like **Next.js, React, and more**.
 
 ---
 
-## 🌐 1. RudroGorjon Portfolio Website
-🔗 Live: https://rudrogorjon.vercel.app/
+## 🌐 RudroGorjon Portfolio Website  
+🔴 **Live Demo:** https://rudrogorjon.vercel.app/
 
-### ✨ Features:
-- Responsive modern UI
-- Smooth navigation
-- Clean and simple design
+✨ **Features:**
+- Responsive modern UI  
+- Smooth navigation  
+- Clean and minimal design  
 
-### 🛠️ Tech Stack:
-- React / Next.js
-- CSS / Tailwind (if used)
-
----
-
-## 🏡 2. Aranest Property Searching Website
-🔗 Live: https://aranest-property-searching-website.vercel.app/
-
-### ✨ Features:
-- Property search functionality
-- Interactive map integration
-- Dynamic listings
-- User-friendly UI
-
-### 🛠️ Tech Stack:
-- Next.js
-- Google Maps API
-- React
+🛠️ **Tech Stack:**
+`Next.js` `React` `Tailwind CSS`
 
 ---
 
-## 🛒 3. E-Commerce Website
-🔗 Live: https://e-commerce-iota-teal-94.vercel.app/
+## 🏡 Aranest Property Searching Website  
+🔴 **Live Demo:** https://aranest-property-searching-website.vercel.app/
 
-### ✨ Features:
-- Product listing
-- Add to cart system
-- Responsive design
-- Smooth UI/UX
+✨ **Features:**
+- Advanced property search  
+- Interactive Google Maps integration  
+- Dynamic listings  
+- User-friendly interface  
 
-### 🛠️ Tech Stack:
-- React
-- State Management
-- CSS
+🛠️ **Tech Stack:**
+`Next.js` `React` `Google Maps API`
 
 ---
 
-## 🎨 4. NFT Marketplace
-🔗 Live: https://nft-marketplace-flax-iota.vercel.app/
+## 🛒 E-Commerce Website  
+🔴 **Live Demo:** https://e-commerce-iota-teal-94.vercel.app/
 
-### ✨ Features:
-- NFT listing UI
-- Modern Web3-style design
-- Interactive components
-- Clean layout
+✨ **Features:**
+- Product listing system  
+- Add to cart functionality  
+- Responsive UI  
+- Smooth user experience  
 
-### 🛠️ Tech Stack:
-- Next.js
-- React
-- Tailwind CSS
+🛠️ **Tech Stack:**
+`React` `State Management` `CSS`
+
+---
+
+## 🎨 NFT Marketplace  
+🔴 **Live Demo:** https://nft-marketplace-flax-iota.vercel.app/
+
+✨ **Features:**
+- NFT listing interface  
+- Modern Web3-style UI  
+- Interactive components  
+- Clean layout  
+
+🛠️ **Tech Stack:**
+`Next.js` `React` `Tailwind CSS`
 
 ---
 
 ## 📌 About Me
-I am a passionate web developer with experience in building modern, responsive, and user-friendly web applications.
+💻 Passionate Web Developer  
+🚀 Skilled in building modern, responsive and user-friendly web applications  
+📍 Focused on real-world projects and clean UI/UX  
 
 ---
 
 ## 📬 Contact
-- GitHub: https://github.com/FahimRafi-Speedy
+🔗 GitHub: https://github.com/FahimRafi-Speedy
