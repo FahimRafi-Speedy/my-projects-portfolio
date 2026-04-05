@@ -4,7 +4,7 @@ Welcome to my project portfolio! Here are some of my featured live projects buil
 
 ---
 
-## 🌐 1. Rudro Gorjon Website
+## 🌐 1. RudroGorjon Portfolio Website
 🔗 Live: https://rudrogorjon.vercel.app/
 
 ### ✨ Features:
